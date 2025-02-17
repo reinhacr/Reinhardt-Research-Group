@@ -1,29 +1,30 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Clorice Reinhardt
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Clorice
+last_name: Reinhardt
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Chemistry
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Vermont
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include metalloenzymes, allostery, protein structure, and everything molecular dynamics. 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational enzymology
+  - Metalloenzymes
+  - Protein structure
+  - Molecular Dynamics
 
 education:
   courses:
@@ -44,21 +45,21 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:reinhacr@gmail.com'
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=en&user=MzGjABQAAAAJ
+ # - icon: github
+ #   icon_pack: fab
+ #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/CV_CRR.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,6 +73,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Clorice Reinhardt is an Assistant Professor at University of Vermont starting in August 2025. She did her postdoctoral work at Massachusetts Institute of Technology under Prof. Kulik as Arnold O. Beckman Postdoctoral Fellow in Chemical Sciences studying metalloenzymes and supramolecular Catalysts. She received her PhD from Yale University in 2022 with Prof. Hammes-Schiffer working on proton-coupled electron transfer reactions involving redox active amino acids. Before that, she recieved her BS in Biochemistry/Molecular Biology from University of Wisconsin-Eau Claire, where she worked with Prof. Bhattacharyay on redox chemistry involving flavin-containing enzymes. Clorice enjoys talking about science, running, and eating cheese- sometimes those three things happen at the same time!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
