@@ -2,9 +2,9 @@
 # Display name
 title: Clorice Reinhardt
 
-# Full Name (for SEO)
-first_name: Clorice
-last_name: Reinhardt
+# Username (this should match the folder name)
+authors:
+  - admin
 
 # Is this the primary user of the site?
 superuser: true
