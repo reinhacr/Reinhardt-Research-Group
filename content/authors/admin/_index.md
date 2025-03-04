@@ -1,3 +1,4 @@
+---
 # Display name
 title: Clorice Reinhardt
 
@@ -67,6 +68,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+
 ---
 
 Clorice Reinhardt is an Assistant Professor at University of Vermont starting in August 2025. She did her postdoctoral work at Massachusetts Institute of Technology under Prof. Kulik as Arnold O. Beckman Postdoctoral Fellow in Chemical Sciences studying metalloenzymes and supramolecular Catalysts. She received her PhD from Yale University in 2022 with Prof. Hammes-Schiffer working on proton-coupled electron transfer reactions involving redox active amino acids. Before that, she recieved her BS in Biochemistry/Molecular Biology from University of Wisconsin-Eau Claire, where she worked with Prof. Bhattacharyay on redox chemistry involving flavin-containing enzymes. Clorice enjoys talking about science, running, and eating cheese- sometimes those three things happen at the same time!
